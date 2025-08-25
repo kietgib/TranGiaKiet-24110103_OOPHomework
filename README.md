@@ -4,7 +4,7 @@ Repo này chứa các bài tập thực hành về **Lập trình Hướng Đố
 Mỗi bài được cài đặt trong một file `.cpp` riêng biệt.
 
 ---
-
+Phần bài viết này có sự hỗ trợ chủa **ChatGPT** để có thể viết Readme và tạo Github này.
 # Mô tả ngắn 
 Đây là repository chứa các giải pháp các bài tập theo yêu cầu môn học. Mỗi bài nằm trong một file riêng như `Car.cpp`, `Student.cpp`, v.v.
 
@@ -19,7 +19,7 @@ Mỗi bài được cài đặt trong một file `.cpp` riêng biệt.
 - **Laptop.cpp** – lớp `Laptop` với thương hiệu, CPU, RAM; phương thức hiển thị cấu hình.  
 - **Course.cpp** – lớp `Course` với tên học phần, số tín chỉ, danh sách sinh viên; phương thức hiển thị thông tin.  
 - **Person.cpp** – lớp `Person` với tên, tuổi, giới tính; phương thức in thông tin.  
-Phần bài viết này có sự hỗ trợ chủa **ChatGPT** để có thể viết và tạo Github này.
+
 ---
 
 ## ⚙️ Cách biên dịch và chạy chương trình
