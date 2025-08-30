@@ -5,6 +5,31 @@ Mỗi bài được cài đặt trong một file `.cpp` riêng biệt.
 
 ---
 Phần bài viết này có sự hỗ trợ chủa **ChatGPT** để có thể viết Readme và tạo Github này.
+Cũng như là giúp tôi làm mở rộng các exercise của mình.
+
+Qua 10 bài tập, mình rút ra được:
+Điều đã làm tốt
+Biết cách xây dựng class với đầy đủ thuộc tính và phương thức.
+Áp dụng đúng private, getter/setter, constructor.
+Một số bài đã thêm tính năng mở rộng (ví dụ: Account có kiểm tra số dư tối thiểu, Car có nhiều thuộc tính).
+Code có comment chi tiết, dễ đọc, dễ hiểu.
+
+Điều còn hạn chế
+Chưa áp dụng kế thừa (inheritance) và đa hình (polymorphism).
+Các test case trong main() còn khá đơn giản, chưa có kiểm thử tự động
+Một số class còn cơ bản (vd: Circle, Person).
+
+Bài học rút ra
+Nắm vững cách thiết kế class trong C++.
+Hiểu vai trò của encapsulation và constructor trong OOP
+Biết cách tổ chức nhiều file, mỗi file thể hiện một bài toán cụ thể.
+
+Hướng phát triển tiếp th
+Bổ sung inheritance (ví dụ: Student kế thừa từ Person, Employee kế thừa từ Person).
+Áp dụng polymorphism trong các class có hành vi chung.
+Thêm unit test thay vì chỉ cout.
+Xây dựng một project lớn hơn, tích hợp nhiều class vào cùng một chương trình. 
+
 # Mô tả ngắn 
 Đây là repository chứa các giải pháp các bài tập theo yêu cầu môn học. Mỗi bài nằm trong một file riêng như `Car.cpp`, `Student.cpp`, v.v.
 
